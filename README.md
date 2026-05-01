@@ -2,7 +2,7 @@
 
 
 
-## Introduction
+## Introduction Section
 
 This project involves developing a random forest model that predicts property prices based on a set of training data. First, we prepare the data by filling NA values by simple imputation methods. Then, we analyze the variables histogram and scatterplot to determine whether they need transformation. Lastly, we build the random forest model using the ranger package.
 
